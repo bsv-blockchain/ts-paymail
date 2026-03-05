@@ -1,6 +1,6 @@
 {
   "name": "@bsv/paymail",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "BSV Paymail library",
   "publishConfig": {
     "access": "public"
@@ -85,12 +85,12 @@
   "author": "BSV Blockchain Association",
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/bitcoin-sv/ts-paymail/issues"
+    "url": "https://github.com/bsv-blockchain/ts-paymail/issues"
   },
-  "homepage": "https://github.com/bitcoin-sv/ts-paymail#readme",
+  "homepage": "https://github.com/bsv-blockchain/ts-paymail#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitcoin-sv/ts-paymail.git"
+    "url": "git+https://github.com/bsv-blockchain/ts-paymail.git"
   },
   "keywords": [
     "BSV",
