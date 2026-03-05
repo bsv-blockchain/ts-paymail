@@ -74,7 +74,7 @@ describe('#Paymail Server - P2P Receive Beef Transaction', () => {
       metadata: {
         sender: 'halfinny@vistamail.org',
         pubkey: privateKey.toPublicKey().toString(),
-        signature: 'invalid signature',
+        signature: 'cafebabe',
         note: 'gm.'
       },
       reference: 'someRefId'
