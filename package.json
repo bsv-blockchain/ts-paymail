@@ -17,6 +17,7 @@
   "exports": {
     ".": {
       "types": "./dist/types/mod.d.ts",
+      "browser": "./dist/esm/mod.browser.js",
       "import": "./dist/esm/mod.js",
       "require": "./dist/cjs/mod.js"
     },
